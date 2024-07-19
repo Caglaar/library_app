@@ -2,7 +2,8 @@
 A Django-based REST API for library management, using Python and PostgreSQL. Ideal for integrating or developing a library system with a scalable backend.
 
 # Why I need to this project?
-If you develop the library project and you need a REST API. And you don't want to spend your time on the Back-end. This project is for you because it's easy to understand and useful.
+- If you develop the library project and you need a REST API. And you don't want to spend your time on the Back-end. This project is for you because it's easy to understand and useful.
+- If your library application involves managing various models such as book checkouts, user information, and reviews, a REST API is an ideal solution for these functionalities. REST APIs effectively handle such data management, enhancing the scalability and flexibility of your application.
 
 # What kind of end-points does this project contain?
 1. **Contains user list and detail end-point.**
